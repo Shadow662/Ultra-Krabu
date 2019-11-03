@@ -1,2 +1,2 @@
 # Yura
-This repository is created for fun.
+This repository is bla bla bla
