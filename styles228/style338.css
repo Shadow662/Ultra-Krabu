@@ -1,10 +1,8 @@
-
-.hollo{
-	width: 382px;
-	height: 227px;
+.box2{
+	display: none;
 }
 
-.loool{
-	width: 20px;
-	height: 10px;
+
+.box1:hover .box{
+display: block;
 }
