@@ -1,12 +1,12 @@
 body{
-background-image: url(/img/asy-fon-novyj_god_new_year-prazdniki-26201.jpg);
+background-image: url(..//img/asy-fon-novyj_god_new_year-prazdniki-26201.jpg);
 background-size: cover;
 margin: 0;
 }
 .z1{
     height: 100px;
     background-color: white;
-    background-image: url(/img/1111111111o4s8ws0.jpg);
+    background-image: url(..//img/1111111111o4s8ws0.jpg);
     background-size: cover;
     margin: 0px;
     border-bottom: 10px solid red;
@@ -59,7 +59,7 @@ li{
 .q1{
     height: 500px;
     width: 800px;
-    background-image: url(/img/pbvip246n5wgw484ocooo4sws0s0ws.gif);
+    background-image: url(..//img/pbvip246n5wgw484ocooo4sws0s0ws.gif);
     margin: auto;
     border: 10px dashed green;
 }
@@ -85,7 +85,7 @@ color:green;
 .q3{
     height: 500px;
     width: 800px;
-    background-image: url(/img/223.gif);
+    background-image: url(..//img/223.gif);
     margin: auto;
     border: 10px dashed blue;
 }
@@ -115,7 +115,7 @@ color:green;
 .q4{
     height: 500px;
     width: 800px;
-    background-image: url(/img/223.gif);
+    background-image: url(..//img/223.gif);
     margin: auto;
     border: 10px dashed red;
 }
@@ -150,7 +150,7 @@ color:green;
 .q5{
     height: 500px;
     width: 800px;
-    background-image: url(/img/223.gif);
+    background-image: url(..//img/223.gif);
     margin: auto;
     border: 10px dashed yellow;
 }
